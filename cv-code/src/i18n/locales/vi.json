@@ -1,0 +1,19 @@
+{
+    "translation ":{
+        "contact": "Liên hệ",
+        "education":"Học vấn",
+        "references": "Người giới thiệu",
+        "about_me":"Giới thiệu về tôi",
+        "about_me_desc": "Tôi là Nguyễn Văn Huy, đang là 1 thực tập sinh",
+        "languages": "Ngôn ngữ",
+        "interests":"Sở thích",
+        "educaton_list":[
+            {
+                "school":"Trường Đại học Điện Lực",
+                "major":"Công Nghệ Thông Tin",
+                "duration":"2024-2029"
+            }
+        ]
+    }
+
+}
