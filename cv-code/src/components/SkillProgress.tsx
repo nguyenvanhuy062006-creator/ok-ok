@@ -1,4 +1,6 @@
 import React from "react";
+import './SkillProgress.scss';
+
 
 interface SkillProgressProps {
   name: string;

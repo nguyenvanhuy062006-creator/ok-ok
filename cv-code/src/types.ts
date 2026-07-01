@@ -4,12 +4,12 @@ export interface WorkExperence {
     duration: string;
     description: string;
 }
-export interface Education{
+export interface Education {
     school: string;
     major: string;
     duration: string;
 }
-export interface Skill{
+export interface Skill {
     name: string;
     level: number;
 }
