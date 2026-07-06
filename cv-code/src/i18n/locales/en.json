@@ -1,0 +1,24 @@
+{
+  "translation": {
+    "contact": "CONTACT",
+    "skills": "SKILLS",
+    "about_me": "ABOUT ME",
+    "about_me_desc": "I am Nguyen Van Huy, a student majoring in E-commerce Systems at Electric Power University. I am passionate about web development and eager to learn new technologies.",
+    "experience": "WORK EXPERIENCE",
+    "education_list": [
+      {
+        "school": "ELECTRIC POWER UNIVERSITY",
+        "major": "E-commerce Systems ",
+        "duration": "2024 - Present"
+      }
+    ],
+    "experience_list": [
+      {
+        "company": "ASSIGNMENTS",
+        "role": "Web Developer",
+        "duration": "2025 - 2026",
+        "desc": "Built application interfaces, optimized responsive layouts."
+      }
+    ]
+  }
+}

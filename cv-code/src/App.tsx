@@ -1,15 +1,13 @@
 
 import MainLayout from './layout/MainLayout';
-import './App.css'
+import './App.css';
 
 function App() {
-
   return (
-    <>
-    <MainLayout/>
-
-    </>
-  )
+    <div id="cv-print-area">
+    <MainLayout />
+    </div>
+  );
 }
 
-export default App
+export default App;

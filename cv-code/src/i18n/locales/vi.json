@@ -1,19 +1,24 @@
 {
-    "translation ":{
-        "contact": "Liên hệ",
-        "education":"Học vấn",
-        "references": "Người giới thiệu",
-        "about_me":"Giới thiệu về tôi",
-        "about_me_desc": "Tôi là Nguyễn Văn Huy, đang là 1 thực tập sinh",
-        "languages": "Ngôn ngữ",
-        "interests":"Sở thích",
-        "educaton_list":[
-            {
-                "school":"Trường Đại học Điện Lực",
-                "major":"Công Nghệ Thông Tin",
-                "duration":"2024-2029"
-            }
-        ]
-    }
-
+  "translation": {
+    "contact": "LIÊN HỆ",
+    "skills": "KỸ NĂNG",
+    "about_me": "GIỚI THIỆU BẢN THÂN",
+    "about_me_desc": "Em là Nguyễn Văn Huy, sinh viên ngành Hệ thống Thương mại điện tử tại Đại học Điện lực. Em có đam mê với lập trình web và luôn mong muốn học hỏi công nghệ mới để hoàn thiện bản thân.",
+    "experience": "KINH NGHIỆM LÀM VIỆC",
+    "education_list": [
+      {
+        "school": "ĐẠI HỌC ĐIỆN LỰC",
+        "major": "Hệ thống Thương mại điện tử",
+        "duration": "2024 - Nay"
+      }
+    ],
+    "experience_list": [
+      {
+        "company": "BÀI TẬP LỚN",
+        "role": "Lập trình viên sản phẩm",
+        "duration": "2025 - 2026",
+        "desc": "Xây dựng giao diện ứng dụng quản lý, tối ưu hóa responsive giao diện."
+      }
+    ]
+  }
 }
